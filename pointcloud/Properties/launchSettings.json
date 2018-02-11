@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "pointcloud": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\user\\source\\repos\\pointcloud\\pointcloud\\pump.ptx"
+    }
+  }
+}
